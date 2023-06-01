@@ -14,14 +14,13 @@ const About = () => {
      <div className="about-section-text-container">
         <p className="primary-subheading">About</p>
         <h1 className="primary-heading">
-        Our mission is to establish Alien Popoy as the ultimate meme token,
+        Our mission is to establish KEKW as the ultimate meme emoji token,
         </h1>
         <p className="primary-text">
-        We strive to create a vibrant and engaged community that celebrates the dancing green alien’s infectious spirit. 
-        Through our social media presence, meme contests, and interactive
+        The "KEKW" emoji is an emote commonly used on the streaming platform Twitch. It depicts a person, usually depicted as the character "John Wick" from the movie series of the same name, laughing with a wide grin and closed eyes.
         </p>
         <p className="primary-text">
-        events, we aim to foster creativity, encourage meme creation, and provide a platform for fans to showcase their talent and love for Alien Popoy.
+        The term "KEKW" itself is derived from the slang term "LOL" or "laugh out loud." This emote is often used to indicate amusement or to express that something is funny.
         </p>
         <div className="about-buttons-container">
          <a href='https://web.telegram.org/a/'>

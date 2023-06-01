@@ -9,17 +9,17 @@ const Work = () => {
     {
       image: hand,
       title: "0% TEAM TOKEN",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
+      text: "0 Token for the team that's so sad!",
     },
     {
       image: hand1,
       title: "100% GOES TO LIQUIDITY",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et ",
+      text: "One hundred percentage for the liq that's good guys?",
     },
     {
       image: hand3,
       title: "0/0 TAX",
-      text: "Contract Renounce",
+      text: "Biggest WOW!",
     },
 
     

@@ -8,27 +8,27 @@ const RoadMap = () => {
         {
           image: k1,
           title: "LIQUIDITY LOCK",
-          text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
+          text: "Liq Lock for the 30 DAYS! LOL!",
         },
         {
           image: k2,
           title: "CONTRACT RENOUNCE",
-          text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et ",
+          text: "Contract Renounce from the owner! NICE NICE!",
         },
         {
           image: k3,
           title: "ETH TRENDING",
-          text: "Contract Renounce",
+          text: "Let's us be trending on ETH which is all goods!",
         },
         {
           image: k1,
           title: "CG LISTING",
-          text: "Contract Renounce",
+          text: "Come on my community want thats!",
         },    
         {
             image: k2,
             title: "CMC LISTING",
-            text: "Contract Renounce",
+            text: "Also this one CMC make it faster sir!",
         },    
               
         

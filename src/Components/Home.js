@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import Banner from "../Assets/bg-home.png"
+import Kekw from "../Assets/KEKW1.mp4"
 import kek from "../Assets/haha.png"
 import { FiArrowRight } from "react-icons/fi";
 
@@ -11,7 +12,7 @@ const Home = () => {
       <Navbar/>
       <div className="home-banner-container">
         <div className="home-bannerImage-container">
-         <img src={Banner} alt=""/>
+         <video src={Kekw} autoPlay loop muted/>
         </div>
         <div className="home-text-section">
           <h1 className="primary-heading">
