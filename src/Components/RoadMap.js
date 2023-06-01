@@ -8,7 +8,7 @@ const RoadMap = () => {
         {
           image: k1,
           title: "LIQUIDITY LOCK",
-          text: "Liq Lock for the 30 DAYS! LOL!",
+          text: "Liq Lock that's cool! ",
         },
         {
           image: k2,
