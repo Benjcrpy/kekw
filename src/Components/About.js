@@ -23,7 +23,7 @@ const About = () => {
         The term "KEKW" itself is derived from the slang term "LOL" or "laugh out loud." This emote is often used to indicate amusement or to express that something is funny.
         </p>
         <div className="about-buttons-container">
-         <a href='https://web.telegram.org/a/'>
+         <a href='https://t.me/KEKWStealth'>
            <button className="secondary-button">Join Us</button> 
          </a>
          

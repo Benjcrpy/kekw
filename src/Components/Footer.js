@@ -13,7 +13,7 @@ const Footer = () => {
         <a href='https://twitter.com/Siyara_ulo' >
         <BsTwitter/>
         </a>
-        <a href='https://web.telegram.org/a/'>
+        <a href='https://t.me/KEKWStealth'>
         <BsTelegram/>
         </a>
         <h1>© 2023 KEKW.All Rights Reserved.</h1>
