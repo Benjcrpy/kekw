@@ -30,6 +30,7 @@ const Home = () => {
             ETH CONTRACT <FiArrowRight/>
           </button>
           </a>
+          <h1 className='secondary-text'> Stealth Launch </h1>
 
         </div>
         <div className="home-image-container">
